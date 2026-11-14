@@ -2,6 +2,7 @@
 Bangla & English to-do list, habit tracker, daily streaks and prayer times. Works offline, installable, no account, no server. Data stays on your phone.
 
 **Features**
+- 📅 Calendar tab (Gregorian month view, week starts Saturday by default, full weekday names such as শনিবার / Saturday, day detail with prayers, habits and tasks), week strip on the Today screen, relative due dates, large-text option
 - ✅ Tasks with priority, due date and time; Today / Upcoming / All / Done
 - 🔥 Habits with weekday schedule, current and best streak, 7-day strip, 30-day grid, quick templates (Quran, water, exercise, Tahajjud, Mon & Thu fasting...)
 - 🏠 Today screen: progress ring, day streak, next prayer countdown, daily reminder quote
