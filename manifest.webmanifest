@@ -1,0 +1,17 @@
+{
+  "id": "./",
+  "name": "আমার দিন | My Day",
+  "short_name": "আমার দিন",
+  "description": "কাজ, অভ্যাস, ধারাবাহিক দিন ও নামাজের সময়। To-do, habits, streaks and prayer times.",
+  "lang": "bn",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef2f8",
+  "theme_color": "#1c3d6e",
+  "icons": [
+    {"src": "logo.png", "sizes": "192x192 512x512", "type": "image/png", "purpose": "any"},
+    {"src": "logo-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
